@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Projects\FXDeals\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1215803323.index
+737625554.index
+2342494396.index
+3197128127.index
+500446516.index
+3128223822.index

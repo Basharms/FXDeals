@@ -1,0 +1,103 @@
+/**
+ * 
+ */
+package org.com.fxdeals.services;
+
+import java.sql.Connection;
+import java.sql.Date;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.naming.NamingException;
+import javax.sql.DataSource;
+
+import org.com.fxdeals.dto.*;
+
+/**
+ * @author Administrator
+ *
+ */
+public class GenericService {
+
+	/**
+	 * @return established Connection object
+	 * @throws NamingException
+	 * @throws SQLException
+	 */
+	public Connection getConnection() throws NamingException, SQLException {
+		try {
+
+			Connection connection = null;
+			Context cxt = new InitialContext();
+			DataSource ds = (DataSource) cxt.lookup("java:/comp/env/jdbc/taskDB");
+			System.out.println("Data Source :: " + ds);
+
+			connection = ds.getConnection();
+
+			return connection;
+		} catch (NamingException e) {
+			e.printStackTrace();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+
+	public void addFXDealRequest(FXDeal fxDeal) {
+		
+		PreparedStatement ps = null;
+		try {
+			
+			// change java util date to sql date 
+//			Date sqlDate = new Date(fxDeal.getDealTime().getTime());
+			Date sqlDate = null;
+			Connection connection = getConnection();
+			String query = "INSERT INTO FX_DEALS (FROM_CURRENCY, TO_CURRENCY, DEAL_TIME, DEAL_AMOUNT) VALUES (?,?,?,?)";
+			ps = connection.prepareStatement(query);
+			ps.setString(1, fxDeal.getFromCurrency());
+			ps.setString(2, fxDeal.getToCurrency());
+			ps.setDate(3, sqlDate);
+			ps.setString(4, fxDeal.getDealAmount());
+
+			int rows = ps.executeUpdate();
+			ps.close();
+			connection.close();
+
+			System.out.println(rows + " Rows inserted");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (NamingException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	/*
+	public void addNewEmployee(Employee employee) {
+
+		PreparedStatement ps = null;
+		try {
+			Connection connection = getConnection();
+			String query = "INSERT INTO EMPLOYEES (NAME, AGE, COUNTRY) VALUES (?,?,?)";
+			ps = connection.prepareStatement(query);
+			ps.setString(1, employee.getName());
+			ps.setString(2, employee.getAge());
+			ps.setString(3, employee.getCountry());
+
+			int rows = ps.executeUpdate();
+			ps.close();
+			connection.close();
+
+			System.out.println(rows + " Rows inserted");
+		} catch (SQLException e) {
+			e.printStackTrace();
+		} catch (NamingException e) {
+			e.printStackTrace();
+		}
+	}
+	*/
+	 
+
+}

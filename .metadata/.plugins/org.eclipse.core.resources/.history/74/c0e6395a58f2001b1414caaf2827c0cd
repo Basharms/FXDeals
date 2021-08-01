@@ -1,0 +1,29 @@
+package org.com.fxdeals.resources;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class DealTest {
+
+	@Test
+	void testDeal() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testDoPostHttpServletRequestHttpServletResponse() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testIsRequestFildsValid() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testPrepareAndWriteResponse() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,14 @@
+package org.com.fxdeals.resources;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class DealJ {
+
+	@Test
+	void testDoPostHttpServletRequestHttpServletResponse() {
+		fail("Not yet implemented");
+	}
+
+}

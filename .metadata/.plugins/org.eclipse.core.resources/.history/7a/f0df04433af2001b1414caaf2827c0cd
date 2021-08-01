@@ -1,0 +1,92 @@
+package org.com.fxdeals.resources;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.SQLIntegrityConstraintViolationException;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.util.Date;
+import java.util.Locale;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.com.fxdeals.dto.FXDeal;
+import org.com.fxdeals.services.GenericService;
+
+/**
+ * Servlet implementation class Deal
+ */
+@WebServlet("/Deal")
+public class Deal extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * Default constructor. 
+     */
+    public Deal() {
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		GenericService genericService = new GenericService();
+		FXDeal fxdeal = new FXDeal();
+		
+		String fromCurrency = request.getParameter("fromCurrency");
+		String toCurrency = request.getParameter("toCurrency");
+		String dealTime = request.getParameter("dealTime");
+		String dealUniqueId = request.getParameter("dealUniqueId");
+		String dealAmount = request.getParameter("dealAmount");
+		
+		fxdeal.setFromCurrency(fromCurrency);
+		fxdeal.setToCurrency(toCurrency);
+		fxdeal.setDealUniqueId(dealUniqueId);
+		fxdeal.setDealAmount(dealAmount);	
+		
+		
+		SimpleDateFormat formatter = new SimpleDateFormat("dd-M-yyyy hh:mm:ss aa", Locale.ENGLISH);
+		try {
+			Date date = formatter.parse(dealTime);
+			fxdeal.setDealTime(date);
+			genericService.addFXDealRequest(fxdeal);
+			
+			Gson gson = new Gson();
+			
+			Employee employee = new Employee(1, "Karan", "IT", 5000);
+	        String employeeJsonString = " { \"id\": \"file\" }";
+	        
+			PrintWriter out = response.getWriter();
+	        response.setContentType("application/json");
+	        response.setCharacterEncoding("UTF-8");
+	        out.print(employeeJsonString);
+	        out.flush(); 
+	        
+		} catch (SQLIntegrityConstraintViolationException e) {
+			System.out.println("Request already  submitted");
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		System.out.println("Deal.doPost() :: " + fxdeal.toString());
+	}
+
+}

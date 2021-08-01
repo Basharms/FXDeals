@@ -1,0 +1,728 @@
+2021-07-31 17:57:42,738 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-01 01:28:48,018 [Worker-207: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-coyote.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108.jar
+2021-08-01 01:28:48,025 [Worker-208: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-dbcp.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.jar
+2021-08-01 01:28:48,037 [Worker-192: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-ha.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108.jar
+2021-08-01 01:28:48,038 [Worker-197: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-tribes.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108.jar
+2021-08-01 01:28:48,038 [Worker-205: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\servlet-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.108/tomcat-servlet-api-7.0.108.jar
+2021-08-01 01:28:48,060 [Worker-202: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jasper.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108.jar
+2021-08-01 01:28:48,080 [Worker-200: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\el-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108.jar
+2021-08-01 01:28:48,115 [Worker-203: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jsp-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108.jar
+2021-08-01 01:28:48,136 [Worker-219: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\websocket-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.jar
+2021-08-01 01:28:48,139 [Worker-216: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-jdbc.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.jar
+2021-08-01 01:28:48,166 [Worker-215: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-zh-CN.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.jar
+2021-08-01 01:28:48,169 [Worker-217: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-util.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108.jar
+2021-08-01 01:28:48,170 [Worker-218: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat7-websocket.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.jar
+2021-08-01 01:28:48,219 [Worker-209: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-de.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.jar
+2021-08-01 01:28:48,240 [Worker-204: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\mysql-connector-java-8.0.23.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar
+2021-08-01 01:28:48,287 [Worker-198: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108.jar
+2021-08-01 01:28:48,290 [Worker-212: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ja.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.jar
+2021-08-01 01:28:48,329 [Worker-214: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ru.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.jar
+2021-08-01 01:28:48,336 [Worker-199: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\ecj-4.4.2.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar
+2021-08-01 01:28:48,367 [Worker-196: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-ant.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108.jar
+2021-08-01 01:28:48,375 [Worker-201: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jasper-el.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108.jar
+2021-08-01 01:28:48,378 [Worker-213: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ko.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.jar
+2021-08-01 01:28:48,451 [Worker-211: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-fr.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.jar
+2021-08-01 01:28:48,481 [Worker-210: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-es.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.jar
+2021-08-01 01:28:48,712 [Worker-200: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\el-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108.jar
+2021-08-01 01:28:48,900 [Worker-217: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-util.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108.jar
+2021-08-01 01:28:48,915 [Worker-192: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-ha.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108.jar
+2021-08-01 01:28:48,931 [Worker-209: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-de.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.jar
+2021-08-01 01:28:48,986 [Worker-203: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jsp-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108.jar
+2021-08-01 01:28:49,043 [Worker-205: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\servlet-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.108/tomcat-servlet-api-7.0.108.jar
+2021-08-01 01:28:49,127 [Worker-196: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-ant.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108.jar
+2021-08-01 01:28:49,197 [Worker-214: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ru.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.jar
+2021-08-01 01:28:49,215 [Worker-215: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-zh-CN.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.jar
+2021-08-01 01:28:49,238 [Worker-219: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\websocket-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.jar
+2021-08-01 01:28:49,248 [Worker-208: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-dbcp.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.jar
+2021-08-01 01:28:49,263 [Worker-216: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-jdbc.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.jar
+2021-08-01 01:28:50,463 [Worker-194: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\annotations-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108.jar
+2021-08-01 01:28:50,501 [Worker-201: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jasper-el.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108.jar
+2021-08-01 01:28:50,529 [Worker-210: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-es.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.jar
+2021-08-01 01:28:50,536 [Worker-212: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ja.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.jar
+2021-08-01 01:28:50,558 [Worker-211: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-fr.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.jar
+2021-08-01 01:28:50,584 [Worker-213: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-i18n-ko.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.jar
+2021-08-01 01:28:50,668 [Worker-197: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina-tribes.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108.jar
+2021-08-01 01:28:50,689 [Worker-218: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat7-websocket.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.jar
+2021-08-01 01:28:51,049 [Worker-194: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\annotations-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108.jar
+2021-08-01 01:28:51,152 [Worker-202: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\jasper.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108.jar
+2021-08-01 01:28:51,430 [Worker-207: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-coyote.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108.jar
+2021-08-01 01:28:52,535 [Worker-199: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\ecj-4.4.2.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar
+2021-08-01 01:28:52,786 [Worker-204: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\mysql-connector-java-8.0.23.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar
+2021-08-01 01:28:52,872 [Worker-206: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108.jar
+2021-08-01 01:28:53,004 [Worker-206: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\tomcat-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108.jar
+2021-08-01 01:28:53,526 [Worker-198: Search the Maven coordinates for C:\java\apache-tomcat-7.0.108-windows-x64\apache-tomcat-7.0.108\lib\catalina.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108.jar
+2021-08-01 01:29:21,649 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108.pom
+2021-08-01 01:29:21,829 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108.pom
+2021-08-01 01:29:22,017 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108.pom
+2021-08-01 01:29:22,205 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108.pom
+2021-08-01 01:29:22,283 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108.pom
+2021-08-01 01:29:22,375 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108.pom
+2021-08-01 01:29:22,459 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.108/tomcat-servlet-api-7.0.108.pom
+2021-08-01 01:29:22,580 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.108/tomcat-servlet-api-7.0.108.pom
+2021-08-01 01:29:22,659 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.pom
+2021-08-01 01:29:22,753 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.pom
+2021-08-01 01:29:22,830 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108.pom
+2021-08-01 01:29:22,946 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108.pom
+2021-08-01 01:29:23,024 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108.pom
+2021-08-01 01:29:23,131 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108.pom
+2021-08-01 01:29:23,212 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108.pom
+2021-08-01 01:29:23,369 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108.pom
+2021-08-01 01:29:23,462 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108.pom
+2021-08-01 01:29:23,518 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2021-08-01 01:29:23,564 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108.pom
+2021-08-01 01:29:23,640 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108.pom
+2021-08-01 01:29:23,731 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108.pom
+2021-08-01 01:29:23,809 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.jar
+2021-08-01 01:29:23,810 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.pom
+2021-08-01 01:29:23,904 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.pom
+2021-08-01 01:29:23,995 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108.pom
+2021-08-01 01:29:24,120 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108.pom
+2021-08-01 01:29:24,230 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108.pom
+2021-08-01 01:29:24,329 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108.pom
+2021-08-01 01:29:24,413 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108.pom
+2021-08-01 01:29:24,510 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108.pom
+2021-08-01 01:29:24,585 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108.pom
+2021-08-01 01:29:24,685 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108.pom
+2021-08-01 01:29:24,759 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.pom
+2021-08-01 01:29:24,887 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.pom
+2021-08-01 01:29:24,993 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2021-08-01 01:29:25,089 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.pom
+2021-08-01 01:29:25,168 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2021-08-01 01:29:25,264 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.11.4/protobuf-parent-3.11.4.pom
+2021-08-01 01:29:25,356 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2021-08-01 01:29:25,378 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FXDeals:FXDeals:0.0.1-SNAPSHOT @ D:\Projects\FXDeals\FXDeals\pom.xml.
+2021-08-01 01:29:25,451 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.11.4/protobuf-bom-3.11.4.pom
+2021-08-01 01:29:25,537 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.pom
+2021-08-01 01:29:25,673 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.pom
+2021-08-01 01:29:25,806 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.pom
+2021-08-01 01:29:25,852 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.pom
+2021-08-01 01:29:25,886 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108.pom
+2021-08-01 01:29:25,997 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.pom
+2021-08-01 01:29:26,112 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.pom
+2021-08-01 01:29:26,116 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108.pom
+2021-08-01 01:29:26,275 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.pom
+2021-08-01 01:29:26,275 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.pom
+2021-08-01 01:29:26,485 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.pom
+2021-08-01 01:29:26,489 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108.pom
+2021-08-01 01:29:26,654 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.pom
+2021-08-01 01:29:26,667 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.pom
+2021-08-01 01:29:26,831 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.pom
+2021-08-01 01:29:26,839 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108.pom
+2021-08-01 01:29:26,990 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.pom
+2021-08-01 01:29:27,009 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.pom
+2021-08-01 01:29:27,214 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.pom
+2021-08-01 01:29:27,218 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108.pom
+2021-08-01 01:29:27,379 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.pom
+2021-08-01 01:29:27,395 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.pom
+2021-08-01 01:29:27,564 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.pom
+2021-08-01 01:29:27,568 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108.pom
+2021-08-01 01:29:27,723 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.pom
+2021-08-01 01:29:27,739 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.pom
+2021-08-01 01:29:27,899 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.pom
+2021-08-01 01:29:27,904 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108.pom
+2021-08-01 01:29:28,060 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.pom
+2021-08-01 01:29:28,095 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.pom
+2021-08-01 01:29:28,294 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.pom
+2021-08-01 01:29:28,299 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108.pom
+2021-08-01 01:29:28,363 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.pom
+2021-08-01 01:29:28,373 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.pom
+2021-08-01 01:29:28,477 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.pom
+2021-08-01 01:29:28,483 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108.pom
+2021-08-01 01:29:28,646 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.pom
+2021-08-01 01:29:28,668 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.pom
+2021-08-01 01:29:28,834 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.pom
+2021-08-01 01:29:28,840 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108.pom
+2021-08-01 01:29:28,999 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.pom
+2021-08-01 01:29:29,002 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.pom
+2021-08-01 01:29:29,198 [Worker-192: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.pom
+2021-08-01 01:29:29,204 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108.pom
+2021-08-01 01:29:29,324 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.jar
+2021-08-01 01:29:29,334 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.jar
+2021-08-01 01:29:29,383 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2021-08-01 01:29:29,397 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2021-08-01 01:29:29,793 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.jar
+2021-08-01 01:29:29,842 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108.jar
+2021-08-01 01:29:30,454 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2021-08-01 01:29:30,696 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.pom
+2021-08-01 01:29:30,758 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+2021-08-01 01:29:30,799 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.3/maven-war-plugin-3.2.3.pom
+2021-08-01 01:29:31,181 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:31,183 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:29:31,186 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:31,188 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:29:31,190 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:29:31,191 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:29:31,219 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:31,660 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2021-08-01 01:29:31,788 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2021-08-01 01:29:31,912 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2021-08-01 01:29:31,999 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2021-08-01 01:29:32,095 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2021-08-01 01:29:32,200 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2021-08-01 01:29:32,270 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2021-08-01 01:29:32,361 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2021-08-01 01:29:32,465 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2021-08-01 01:29:32,582 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2021-08-01 01:29:32,757 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2021-08-01 01:29:32,892 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2021-08-01 01:29:33,166 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2021-08-01 01:29:33,234 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2021-08-01 01:29:33,275 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2021-08-01 01:29:33,275 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2021-08-01 01:29:33,276 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2021-08-01 01:29:33,451 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2021-08-01 01:29:33,720 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2021-08-01 01:29:34,171 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2021-08-01 01:29:34,267 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2021-08-01 01:29:34,358 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2021-08-01 01:29:36,150 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FXDeals/src
+2021-08-01 01:29:36,151 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FXDeals/src/test/java because it overlaps with /FXDeals/src
+2021-08-01 01:29:37,873 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108-sources.jar
+2021-08-01 01:29:38,391 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.108/tomcat-annotations-api-7.0.108-sources.jar
+2021-08-01 01:29:38,411 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:7.0.108
+2021-08-01 01:29:39,122 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108-sources.jar
+2021-08-01 01:29:39,475 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ant/7.0.108/tomcat-catalina-ant-7.0.108-sources.jar
+2021-08-01 01:29:39,485 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina-ant:7.0.108
+2021-08-01 01:29:40,060 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108-sources.jar
+2021-08-01 01:29:40,457 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.108/tomcat-catalina-ha-7.0.108-sources.jar
+2021-08-01 01:29:40,475 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina-ha:7.0.108
+2021-08-01 01:29:40,882 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108-sources.jar
+2021-08-01 01:29:41,333 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.108/tomcat-juli-7.0.108-sources.jar
+2021-08-01 01:29:41,342 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-juli:7.0.108
+2021-08-01 01:29:41,747 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108-sources.jar
+2021-08-01 01:29:42,232 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.108/tomcat-tribes-7.0.108-sources.jar
+2021-08-01 01:29:42,250 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-tribes:7.0.108
+2021-08-01 01:29:42,939 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108-sources.jar
+2021-08-01 01:29:44,151 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:44,156 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:29:44,160 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:44,161 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:29:44,162 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:29:44,162 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:29:44,170 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:44,215 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.108/tomcat-catalina-7.0.108-sources.jar
+2021-08-01 01:29:44,223 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina:7.0.108
+2021-08-01 01:29:44,631 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar
+2021-08-01 01:29:44,695 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-08-01 01:29:45,389 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar
+2021-08-01 01:29:45,398 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jdt.core.compiler:ecj:4.4.2
+2021-08-01 01:29:45,476 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FXDeals:FXDeals:0.0.1-SNAPSHOT @ D:\Projects\FXDeals\FXDeals\pom.xml.
+2021-08-01 01:29:45,919 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108-sources.jar
+2021-08-01 01:29:46,536 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.108/tomcat-el-api-7.0.108-sources.jar
+2021-08-01 01:29:46,545 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-el-api:7.0.108
+2021-08-01 01:29:47,047 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108-sources.jar
+2021-08-01 01:29:47,417 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.108/tomcat-jasper-el-7.0.108-sources.jar
+2021-08-01 01:29:47,426 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper-el:7.0.108
+2021-08-01 01:29:47,783 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FXDeals/src
+2021-08-01 01:29:47,784 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FXDeals/src/test/java because it overlaps with /FXDeals/src
+2021-08-01 01:29:47,802 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108-sources.jar
+2021-08-01 01:29:48,363 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.108/tomcat-jasper-7.0.108-sources.jar
+2021-08-01 01:29:48,371 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper:7.0.108
+2021-08-01 01:29:48,777 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108-sources.jar
+2021-08-01 01:29:49,127 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.108/tomcat-jsp-api-7.0.108-sources.jar
+2021-08-01 01:29:49,136 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jsp-api:7.0.108
+2021-08-01 01:29:49,467 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-sources.jar
+2021-08-01 01:29:50,246 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23-sources.jar
+2021-08-01 01:29:50,254 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.23
+2021-08-01 01:29:50,572 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2021-08-01 01:29:50,679 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:50,681 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:29:50,684 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:50,686 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:29:50,686 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:29:50,687 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:29:50,695 [Worker-204: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:50,906 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FXDeals
+2021-08-01 01:29:50,923 [Worker-204: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2021-08-01 01:29:51,113 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4-sources.jar
+2021-08-01 01:29:51,121 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2021-08-01 01:29:51,460 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108-sources.jar
+2021-08-01 01:29:51,739 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.108/tomcat-api-7.0.108-sources.jar
+2021-08-01 01:29:51,747 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-api:7.0.108
+2021-08-01 01:29:51,828 [Worker-213: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:51,829 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:29:51,831 [Worker-213: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:51,832 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:29:51,833 [Worker-213: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:29:51,833 [Worker-213: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:29:51,840 [Worker-213: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:29:52,261 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108-sources.jar
+2021-08-01 01:29:52,962 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.108/tomcat-coyote-7.0.108-sources.jar
+2021-08-01 01:29:52,970 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-coyote:7.0.108
+2021-08-01 01:29:53,363 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108-sources.jar
+2021-08-01 01:29:53,826 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.108/tomcat-dbcp-7.0.108-sources.jar
+2021-08-01 01:29:53,840 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-dbcp:7.0.108
+2021-08-01 01:29:54,208 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108-sources.jar
+2021-08-01 01:29:54,218 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-de:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-de:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:54,580 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108-sources.jar
+2021-08-01 01:29:54,587 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-es:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-es:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:54,957 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108-sources.jar
+2021-08-01 01:29:54,964 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-fr:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-fr:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:55,356 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108-sources.jar
+2021-08-01 01:29:55,360 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-ja:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ja:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:55,753 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108-sources.jar
+2021-08-01 01:29:55,760 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-ko:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ko:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:56,178 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108-sources.jar
+2021-08-01 01:29:56,185 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-ru:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ru:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:56,563 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108-sources.jar
+2021-08-01 01:29:56,569 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.tomcat:tomcat-i18n-zh-CN:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-zh-CN:jar:sources:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:29:56,995 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108-sources.jar
+2021-08-01 01:29:57,372 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.108/tomcat-jdbc-7.0.108-sources.jar
+2021-08-01 01:29:57,388 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jdbc:7.0.108
+2021-08-01 01:29:57,731 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108-sources.jar
+2021-08-01 01:29:58,068 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.108/tomcat-util-7.0.108-sources.jar
+2021-08-01 01:29:58,076 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-util:7.0.108
+2021-08-01 01:29:58,474 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108-sources.jar
+2021-08-01 01:29:58,911 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat7-websocket/7.0.108/tomcat7-websocket-7.0.108-sources.jar
+2021-08-01 01:29:58,917 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat7-websocket:7.0.108
+2021-08-01 01:29:59,267 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108-sources.jar
+2021-08-01 01:29:59,738 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-websocket-api/7.0.108/tomcat-websocket-api-7.0.108-sources.jar
+2021-08-01 01:29:59,745 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-websocket-api:7.0.108
+2021-08-01 01:29:59,753 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:7.0.108
+2021-08-01 01:29:59,761 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina-ant:7.0.108
+2021-08-01 01:29:59,768 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina-ha:7.0.108
+2021-08-01 01:29:59,773 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-juli:7.0.108
+2021-08-01 01:29:59,779 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-tribes:7.0.108
+2021-08-01 01:29:59,784 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina:7.0.108
+2021-08-01 01:29:59,789 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.jdt.core.compiler:ecj:4.4.2
+2021-08-01 01:29:59,795 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-el-api:7.0.108
+2021-08-01 01:29:59,800 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper-el:7.0.108
+2021-08-01 01:29:59,805 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper:7.0.108
+2021-08-01 01:29:59,813 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jsp-api:7.0.108
+2021-08-01 01:29:59,819 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.23
+2021-08-01 01:29:59,825 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2021-08-01 01:29:59,831 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-api:7.0.108
+2021-08-01 01:29:59,837 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-coyote:7.0.108
+2021-08-01 01:29:59,842 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-dbcp:7.0.108
+2021-08-01 01:30:00,241 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-de/7.0.108/tomcat-i18n-de-7.0.108-javadoc.jar
+2021-08-01 01:30:00,245 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-de:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-de:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:00,739 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-es/7.0.108/tomcat-i18n-es-7.0.108-javadoc.jar
+2021-08-01 01:30:00,744 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-es:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-es:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:01,336 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-fr/7.0.108/tomcat-i18n-fr-7.0.108-javadoc.jar
+2021-08-01 01:30:01,343 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-fr:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-fr:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:01,813 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ja/7.0.108/tomcat-i18n-ja-7.0.108-javadoc.jar
+2021-08-01 01:30:01,820 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-ja:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ja:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:02,206 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ko/7.0.108/tomcat-i18n-ko-7.0.108-javadoc.jar
+2021-08-01 01:30:02,214 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-ko:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ko:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:02,612 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-ru/7.0.108/tomcat-i18n-ru-7.0.108-javadoc.jar
+2021-08-01 01:30:02,619 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-ru:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-ru:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:03,019 [Worker-215: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-i18n-zh-CN/7.0.108/tomcat-i18n-zh-CN-7.0.108-javadoc.jar
+2021-08-01 01:30:03,026 [Worker-215: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.tomcat:tomcat-i18n-zh-CN:7.0.108
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.tomcat:tomcat-i18n-zh-CN:jar:javadoc:7.0.108
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2021-08-01 01:30:03,040 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jdbc:7.0.108
+2021-08-01 01:30:03,050 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-util:7.0.108
+2021-08-01 01:30:03,060 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat7-websocket:7.0.108
+2021-08-01 01:30:03,066 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-websocket-api:7.0.108
+2021-08-01 01:30:03,071 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper-el:7.0.108
+2021-08-01 01:30:03,076 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jasper:7.0.108
+2021-08-01 01:30:03,082 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jsp-api:7.0.108
+2021-08-01 01:30:03,087 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.23
+2021-08-01 01:30:03,092 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2021-08-01 01:30:03,097 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-api:7.0.108
+2021-08-01 01:30:03,102 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-coyote:7.0.108
+2021-08-01 01:30:03,107 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-dbcp:7.0.108
+2021-08-01 01:30:03,141 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jdbc:7.0.108
+2021-08-01 01:30:03,146 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-util:7.0.108
+2021-08-01 01:30:03,152 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat7-websocket:7.0.108
+2021-08-01 01:30:03,157 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-websocket-api:7.0.108
+2021-08-01 01:30:03,162 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jsp-api:7.0.108
+2021-08-01 01:30:03,167 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.23
+2021-08-01 01:30:03,175 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.protobuf:protobuf-java:3.11.4
+2021-08-01 01:30:03,182 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-api:7.0.108
+2021-08-01 01:30:03,189 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-coyote:7.0.108
+2021-08-01 01:30:03,195 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-dbcp:7.0.108
+2021-08-01 01:30:03,229 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jdbc:7.0.108
+2021-08-01 01:30:03,235 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-util:7.0.108
+2021-08-01 01:30:03,242 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat7-websocket:7.0.108
+2021-08-01 01:30:03,250 [Worker-215: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-websocket-api:7.0.108
+2021-08-01 01:30:03,993 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:30:03,994 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:30:03,996 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:30:03,996 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:36:48,445 [Worker-226: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FXDeals:FXDeals:0.0.1-SNAPSHOT @ D:\Projects\FXDeals\FXDeals\pom.xml.
+2021-08-01 01:36:48,739 [Worker-226: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:36:48,741 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:36:48,745 [Worker-226: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:36:48,747 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:36:48,748 [Worker-226: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:36:48,748 [Worker-226: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:36:48,757 [Worker-226: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:36:51,123 [Worker-226: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:36:51,124 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:36:51,127 [Worker-226: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:36:51,128 [Worker-226: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:37:13,313 [Worker-225: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FXDeals:FXDeals:0.0.1-SNAPSHOT @ D:\Projects\FXDeals\FXDeals\pom.xml.
+2021-08-01 01:37:13,577 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:37:13,579 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:37:13,582 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:37:13,583 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:37:13,583 [Worker-225: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FXDeals
+2021-08-01 01:37:13,583 [Worker-225: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FXDeals
+2021-08-01 01:37:13,590 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:37:15,933 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:37:15,934 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:37:15,935 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:37:15,936 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:38:51,375 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:38:51,377 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:38:51,380 [Worker-225: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:38:51,381 [Worker-225: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:39:19,902 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:39:19,903 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:39:19,905 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:39:19,906 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:39:36,221 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:39:36,222 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:39:36,226 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:39:36,228 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:40:17,991 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:17,992 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:40:17,994 [Worker-229: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:17,995 [Worker-229: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:40:36,808 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:36,809 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:40:36,810 [Worker-234: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:36,811 [Worker-234: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:40:47,587 [Worker-230: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:47,588 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:40:47,590 [Worker-230: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:47,591 [Worker-230: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:40:56,810 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:56,811 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:40:56,812 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:40:56,814 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 01:41:02,513 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:41:02,514 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 01:41:02,515 [Worker-233: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 01:41:02,516 [Worker-233: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:25:24,492 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:25:24,531 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:25:24,539 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:25:24,540 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:28:56,947 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:28:56,951 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:28:56,954 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:28:56,955 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:29:26,052 [Worker-251: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:29:26,053 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:29:26,054 [Worker-251: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:29:26,055 [Worker-251: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:29:46,856 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:29:46,858 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:29:46,863 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:29:46,864 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:30:01,843 [Worker-254: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:01,844 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:30:01,845 [Worker-254: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:01,846 [Worker-254: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:30:12,958 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:12,959 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:30:12,961 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:12,962 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:30:33,705 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:33,706 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:30:33,707 [Worker-242: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:33,708 [Worker-242: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:30:40,901 [Worker-248: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:40,902 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:30:40,905 [Worker-248: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:40,906 [Worker-248: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:30:53,469 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:53,470 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:30:53,474 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:30:53,475 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:31:41,443 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:31:41,444 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:31:41,446 [Worker-228: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:31:41,447 [Worker-228: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:31:59,534 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:31:59,535 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:31:59,536 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:31:59,537 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:32:12,681 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:12,682 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:32:12,683 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:12,684 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:32:42,704 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:42,705 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:32:42,707 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:42,707 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:32:47,246 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:47,247 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:32:47,248 [Worker-246: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:32:47,250 [Worker-246: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:33:07,604 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:33:07,605 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:33:07,606 [Worker-250: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:33:07,607 [Worker-250: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:33:12,860 [Worker-252: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:33:12,861 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:33:12,862 [Worker-252: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:33:12,863 [Worker-252: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:36:34,877 [Worker-255: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:36:34,878 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:36:34,881 [Worker-255: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:36:34,883 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:38:05,395 [Worker-255: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:38:05,397 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:38:05,399 [Worker-255: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:38:05,401 [Worker-255: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:39:40,264 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:39:40,266 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:39:40,267 [Worker-247: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:39:40,268 [Worker-247: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources
+2021-08-01 02:43:11,396 [Worker-260: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:43:11,397 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\main\resources
+2021-08-01 02:43:11,398 [Worker-260: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-01 02:43:11,399 [Worker-260: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Projects\FXDeals\FXDeals\src\test\resources

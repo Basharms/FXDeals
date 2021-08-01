@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package org.com.fxdeals.dto;
+
+/**
+ * @author Administrator
+ *
+ */
+public class FXDeal {
+
+}
